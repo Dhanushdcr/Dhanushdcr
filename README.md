@@ -3,79 +3,64 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="500" height="300">
+  <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/02/Data-Analytics-2.png" width="700">
 </p>
 
 ## 🚀 About Me  
-💼 **Data Analyst with expertise in designing and
- developing data-driven solutions using Power BI,
- SQL, and Excel. Skilled in data visualization, ETL
- processes, and statistical analysis to drive
- business insights. Adept at collaborating with
- cross-functional teams to translate complex
- datasets into actionable intelligence. Passionate
- about leveraging analytics to solve business
- problems and improve decision-making.
- Experienced in applying Machine Learning
- algorithms for predictive analytics and data
- modeling, with hands-on expertise in Supervised
- Learning techniques such as regression and
- classification.**  
+💼 **Aspiring Data Analyst | Power BI | SQL | Excel**  
 📊 **Turning Raw Data into Actionable Insights**  
 🎯 **Passionate about Data Analytics & Visualization**  
 
 ### 👨‍💻 **Who Am I?**  
 - 🎓 **B.E. in AI & ML | Vivekananda College of Engineering & Technology**  
 - 📌 **Data Analyst Trainee @ ExcelR Solutions (Aug 2024 - Feb 2025)**  
-- 🛠 **Expert in:** Power BI, SQL, Excel, Python, Tableau  
-- 🔍 **Machine Learning Enthusiast**: Regression, Classification  
+- 🛠 **Expert in:** Power BI, SQL, Excel, Tableau  
+- 🔍 **Experienced in Data Cleaning, ETL, and Business Intelligence**  
 
 ---
 
-## 📂 **Projects**  
-### **📊 Adventure Works Analysis**  
-📌 **Tools:** Power BI, SQL, Tableau  
-📌 **Description:** Created an interactive sales dashboard for **business insights & forecasting**.  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/71187830-1fc6e100-225a-11ea-8d46-cf5d68f7cf38.png" width="600">
-</p>
+## 📂 Projects  
 
-### **📈 Blinkit Sales Dashboard**  
+### 🍕 [Pizza Sales Report (Power BI & SQL)](https://github.com/Dhanushdcr/Pizza-Sales-Report-PowerBI-and-SQL-)  
+📌 **Tools:** Power BI, SQL  
+📌 **Description:** Designed an interactive dashboard analyzing **sales trends & customer preferences** to optimize business decisions.  
+
+### 🛒 [Blinkit Dashboard (Power BI)](https://github.com/Dhanushdcr/Blinkit-Dashboard-PowerBI-)  
 📌 **Tools:** Power BI  
-📌 **Description:** Analyzed sales data to optimize **inventory & outlet performance**.  
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="600">
-</p>
+📌 **Description:** Conducted sales analysis for Blinkit to improve **delivery efficiency & product demand forecasting**.  
+
+### 📊 [Adventure Works Analysis](https://github.com/Dhanushdcr/Adventureworks-Excel-PowerBI-SQL-Tableau)  
+📌 **Tools:** Power BI, SQL, Tableau  
+📌 **Description:** Built a **business performance dashboard** using Power BI to analyze sales, profit, and customer data.  
+
+### 📈 [Stock Market Analysis](https://github.com/Dhanushdcr/Stock-Market-Analysis-Excel-PowerBI-SQL-Tableau)  
+📌 **Tools:** Excel, Power BI, SQL, Tableau  
+📌 **Description:** Performed stock trend analysis and created **visual dashboards** for better investment insights.  
+
+### 🌎 [US Population Growth & Racial Distribution](https://github.com/Dhanushdcr/US-Population-Growth-Racial-Distribution-PowerBI)  
+📌 **Tools:** Power BI  
+📌 **Description:** Analyzed **demographic trends in the US** to study racial distribution and growth patterns.  
+
+### 🏥 [Specialty Estimate Analysis](https://github.com/Dhanushdcr/Specialty-Estimate-PowerBI)  
+📌 **Tools:** Power BI  
+📌 **Description:** Created a **data-driven report** for specialty medical estimates to assist in healthcare decision-making.  
 
 ---
 
 ## 🛠 **Technical Skills**  
 ✅ **Data Analysis & Visualization:** ![Power BI](https://img.shields.io/badge/PowerBI-FAE500?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-✅ **Programming & Databases:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-✅ **ETL & Data Processing:** Data Integration, Data Cleaning  
-✅ **Machine Learning:** Regression, Classification  
+✅ **Data Handling:** Excel (Pivot Tables, VLOOKUP, Macros)  
+✅ **Database Management:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+✅ **ETL & Data Processing:** Data Cleaning, Data Integration  
+✅ **Business Intelligence Reporting & Dashboarding**  
 
----
 
-## 📊 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanushdcr&theme=dark&hide_border=false">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanushdcr&show_icons=true&theme=dark">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushdcr&layout=compact&theme=dark">
-</p>
-
----
 
 ## 📫 **Connect with Me**  
-📩 **Email:** [dcrdhanush@gmail.com](mailto:dcrdhanush@gmail.com)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
-🐍 **Kaggle:** [Your Kaggle Profile](#)  
-📂 **Portfolio:** [Your Portfolio (if available)](#)  
+📩 **Email:**(mailto:dcrdhanush@gmail.com)  
+🔗 **LinkedIn:** (https://www.linkedin.com/in/dhanush-chinmay-r-a97135242/)  
 
 ---
 
 🔹 **Want to collaborate? Feel free to reach out!** 😊  
 💡 **Let's turn data into actionable insights!** 🚀  
-
