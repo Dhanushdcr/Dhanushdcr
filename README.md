@@ -1,17 +1,21 @@
-<h1 align="center"> 
-  Hi there! 👋 I'm Dhanush Chinmay R  
+<h1 align="center">
+  <span style="background: linear-gradient(to right, #f12711, #f5af19); -webkit-background-clip: text; color: transparent;">
+    Hi there! 👋 I'm Dhanush Chinmay R  
+  </span>
 </h1>
 
 <p align="center">
   <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/02/Data-Analytics-2.png" width="700">
 </p>
 
-## 🚀 About Me  
-💼 **Aspiring Data Analyst | Power BI | SQL | Excel**  
-📊 **Turning Raw Data into Actionable Insights**  
-🎯 **Passionate about Data Analytics & Visualization**  
+---
 
-### 👨‍💻 **Who Am I?**  
+## 🚀 <span style="color:#FF5733">About Me</span>  
+💼 **<span style="color:#FFC300">Aspiring Data Analyst | Power BI | SQL | Excel</span>**  
+📊 **<span style="color:#DAF7A6">Turning Raw Data into Actionable Insights</span>**  
+🎯 **<span style="color:#FF33FF">Passionate about Data Analytics & Visualization</span>**  
+
+### 👨‍💻 <span style="color:#FF6347">Who Am I?</span>  
 - 🎓 **B.E. in AI & ML | Vivekananda College of Engineering & Technology**  
 - 📌 **Data Analyst Trainee @ ExcelR Solutions (Aug 2024 - Feb 2025)**  
 - 🛠 **Expert in:** Power BI, SQL, Excel, Tableau  
@@ -19,7 +23,7 @@
 
 ---
 
-## 📂 Projects  
+## 📂 <span style="background: linear-gradient(to right, #f12711, #f5af19); -webkit-background-clip: text; color: transparent;">Projects</span>  
 
 ### 🍕 [Pizza Sales Report (Power BI & SQL)](https://github.com/Dhanushdcr/Pizza-Sales-Report-PowerBI-and-SQL-)  
 📌 **Tools:** Power BI, SQL  
@@ -47,20 +51,27 @@
 
 ---
 
-## 🛠 **Technical Skills**  
-✅ **Data Analysis & Visualization:** ![Power BI](https://img.shields.io/badge/PowerBI-FAE500?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-✅ **Data Handling:** Excel (Pivot Tables, VLOOKUP, Macros)  
-✅ **Database Management:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-✅ **ETL & Data Processing:** Data Cleaning, Data Integration  
-✅ **Business Intelligence Reporting & Dashboarding**  
+## 🛠 <span style="color:#0dcaf0">Technical Skills</span>  
+✅ **Data Analysis & Visualization:**  
+![Power BI](https://img.shields.io/badge/PowerBI-FAE500?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
+✅ **Data Handling:**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
+✅ **Database Management:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-## 📫 **Connect with Me**  
-📩 **Email:**(mailto:dcrdhanush@gmail.com)  
-🔗 **LinkedIn:** (https://www.linkedin.com/in/dhanush-chinmay-r-a97135242/)  
+✅ **ETL & Data Processing:**  
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-ff6f61?style=for-the-badge&logo=database&logoColor=white)  
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
 
 ---
 
-🔹 **Want to collaborate? Feel free to reach out!** 😊  
-💡 **Let's turn data into actionable insights!** 🚀  
+## 📊 <span style="color:#ff00ff">GitHub Stats</span>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanushdcr&theme=radical&hide_border=false">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanushdcr&show_icons=true&theme=radical">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushdcr&layou
