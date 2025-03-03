@@ -1,22 +1,14 @@
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #f7b733, #fc4a1a); -webkit-background-clip: text; color: transparent;">
-    Hi there! 👋 I'm Dhanush Chinmay R  
-  </span>
+<h1 align="center"> 
+  🚀 Hi there! I'm <span style="color:#FFD700;">Dhanush Chinmay R</span>  
 </h1>
 
 <p align="center">
-  <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/02/Data-Analytics-2.png" width="700">
+  <img src="https://www.nagarro.com/hubfs/Nagarro_Logo_PowerBI-Analytics.jpg" width="700">
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B733&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Power+BI+|+SQL+|+Excel+|+Tableau;Turning+Raw+Data+into+Actionable+Insights" />
-</div>
-
----
-
-## 🚀 **About Me**  
+## 🚀 About Me  
 💼 **Aspiring Data Analyst | Power BI | SQL | Excel**  
 📊 **Turning Raw Data into Actionable Insights**  
 🎯 **Passionate about Data Analytics & Visualization**  
@@ -29,7 +21,7 @@
 
 ---
 
-## 📂 **Projects**  
+## 📂 Projects  
 
 ### 🍕 [Pizza Sales Report (Power BI & SQL)](https://github.com/Dhanushdcr/Pizza-Sales-Report-PowerBI-and-SQL-)  
 📌 **Tools:** Power BI, SQL  
@@ -62,16 +54,13 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-FAE500?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
-✅ **Data Handling:**  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-
+✅ **Data Handling:** Excel (Pivot Tables, VLOOKUP, Macros)  
 ✅ **Database Management:**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+✅ **ETL & Data Processing:** Data Cleaning, Data Integration  
+✅ **Business Intelligence Reporting & Dashboarding**  
 
-✅ **ETL & Data Processing:**  
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-ff6f61?style=for-the-badge&logo=database&logoColor=white)  
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
-
+---
 
 ## 📫 **Connect with Me**  
 📩 **Email:** [dcrdhanush@gmail.com](mailto:dcrdhanush@gmail.com)  
@@ -79,5 +68,5 @@
 
 ---
 
-🚀 **Want to collaborate? Feel free to reach out!** 😊  
-💡 **Let's turn data into actionable insights!**  
+### 🔥 **Want to collaborate? Feel free to reach out!** 😊  
+💡 **Let's turn data into actionable insights!** 🚀  
