@@ -4,8 +4,6 @@
   </span>
 </h1>
 
-
-
 ---
 
 <div align="center">
@@ -27,7 +25,11 @@
 
 ---
 
-## 📂 **Projects**  
+## 🐂 **Projects**  
+
+### 🏧 [ATM Transactions Analysis Dashboard](https://github.com/Dhanushdcr/ATM-Transactions-Analysis-Dashboard)  
+📌 **Tools:** Power BI  
+📌 **Description:** Developed an interactive dashboard to **monitor ATM transactions, costs, revenue, and operational efficiency**, helping banks optimize ATM performance.  
 
 ### 🍕 [Pizza Sales Report (Power BI & SQL)](https://github.com/Dhanushdcr/Pizza-Sales-Report-PowerBI-and-SQL-)  
 📌 **Tools:** Power BI, SQL  
@@ -56,6 +58,7 @@
 ---
 
 ## 🛠 **Technical Skills**  
+
 ✅ **Data Analysis & Visualization:**  
 ![Power BI](https://img.shields.io/badge/PowerBI-FAE500?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
@@ -70,10 +73,9 @@
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-ff6f61?style=for-the-badge&logo=database&logoColor=white)  
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0078D4?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
 
+---
 
-
-
-## 📫 **Connect with Me**  
+## 💋 **Connect with Me**  
 📩 **Email:** [dcrdhanush@gmail.com](mailto:dcrdhanush@gmail.com)  
 🔗 **LinkedIn:** [Dhanush Chinmay R](https://www.linkedin.com/in/dhanush-chinmay-r-a97135242/)  
 
