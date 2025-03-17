@@ -27,7 +27,7 @@
 
 ## 🐂 **Projects**  
 
-### 🏧 [ATM Transactions Analysis Dashboard](https://github.com/Dhanushdcr/ATM-Transactions-Analysis-Dashboard)  
+### 🏧 [ATM Transactions Analysis Dashboard](https://github.com/Dhanushdcr/ATM-Transaction-Dashboard)  
 📌 **Tools:** Power BI  
 📌 **Description:** Developed an interactive dashboard to **monitor ATM transactions, costs, revenue, and operational efficiency**, helping banks optimize ATM performance.  
 
