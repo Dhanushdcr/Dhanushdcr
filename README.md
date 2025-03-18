@@ -75,7 +75,7 @@
 
 ---
 
-## 💋 **Connect with Me**  
+##  **Connect with Me**  
 📩 **Email:** [dcrdhanush@gmail.com](mailto:dcrdhanush@gmail.com)  
 🔗 **LinkedIn:** [Dhanush Chinmay R](https://www.linkedin.com/in/dhanush-chinmay-r-a97135242/)  
 
